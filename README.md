@@ -1,6 +1,6 @@
 # covinfo
 
-Sebuah aplikasi untuk mengetahui Covid di daerah tertentu
+Sebuah aplikasi untuk mengetahui Covid di Indonesia
 
 ## Getting Started
 
